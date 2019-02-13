@@ -25,6 +25,14 @@ a {
   text-decoration: none;
 }
 
+.fab fa-linkedin-in{
+  color: #00CFB0;
+}
+
+.fab fa-facebook-f{
+  color: #00CFB0;
+}
+
 #profile-picture {
   width: 100px;
   height: 100px;
@@ -36,7 +44,7 @@ a {
 }
 
 table img {
-  width: 50%;
+  width: 200px;
   text-align: center;
 }
 
@@ -82,4 +90,9 @@ table img {
 
 .list-inline {
   padding-left: 0px;
+}
+
+p{
+  font-weight: lighter;
+  font-size: 12px;
 }
