@@ -25,11 +25,11 @@ a {
   text-decoration: none;
 }
 
-.fab fa-linkedin-in{
+.fab.fa-linkedin-in{
   color: #00CFB0;
 }
 
-.fab fa-facebook-f{
+.fab.fa-facebook-f{
   color: #00CFB0;
 }
 
@@ -92,7 +92,16 @@ table img {
   padding-left: 0px;
 }
 
-p{
+p {
   font-weight: lighter;
   font-size: 12px;
+}
+
+.description-center {
+  text-align: center;
+  padding-left: 10px;
+}
+
+table {
+  border-spacing: 5px 1rem;
 }
